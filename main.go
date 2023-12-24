@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func helloworld() string {
-	return "JFrog test - version v1.0.0"
+	return "JFrog test - version v1.5.0"
 }
 
 func main() {
